@@ -74,7 +74,7 @@ This plugin contains two types of tasks to each source set available in your pro
 
 - licenseMain (`LicenseCheck`)        : checks for header consistency in the main source set
 - licenseFormatMain (`LicenseFormat`) : applies the license found in the header file in files missing the header
-- licenseTest (`LicenseCheck`)        : checks for header consistency in the test source set
+- licenseTest (`licenseTest`)        : checks for header consistency in the test source set
 - licenseFormatTest (`LicenseFormat`) : applies the license found in the header file in files missing the header in the test source set
 - etc.
 
